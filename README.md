@@ -1,9 +1,4 @@
 ## Welcome to my profile
-
-<div>
-  <a href="https://github.com/mateusdevelopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdevelopes&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 **Languages and Tools:**
@@ -17,7 +12,11 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<div>
+  <a href="https://github.com/mateusdevelopes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdevelopes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
