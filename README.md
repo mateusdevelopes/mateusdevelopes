@@ -1,29 +1,96 @@
-## Welcome to my profile
- 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
-**Languages and Tools:**
- 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="./assets/banner.png" alt="Mateus Lopes — Software Engineer. JavaScript, TypeScript, React Native, Flutter e NestJS. Brazil, Fortaleza, CE." width="100%"/>
+</p>
 
-<div>
-  <a href="https://github.com/mateusdevelopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdevelopes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    
-<!-- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Portugu%C3%AAs-1A4D3E?style=flat-square" alt="Português"/>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-111916?style=flat-square" alt="English"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateus-lopes-7877b6168/"><img src="https://img.shields.io/badge/LinkedIn-111916?style=flat-square&logo=linkedin&logoColor=A8ECC4" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@mateusdevelopes"><img src="https://img.shields.io/badge/Medium-111916?style=flat-square&logo=medium&logoColor=A8ECC4" alt="Medium"/></a>
+  <a href="https://x.com/SwiftPilotz"><img src="https://img.shields.io/badge/X-111916?style=flat-square&logo=x&logoColor=A8ECC4" alt="X"/></a>
+  <a href="mailto:mateus@mateuslopes.dev"><img src="https://img.shields.io/badge/Email-111916?style=flat-square&logo=gmail&logoColor=A8ECC4" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <em>Arquitetura de produtos multiplataforma, saúde em produção<br/>e software que eu mesmo coloco no ar.</em>
+</p>
+
+### Sobre
+
+Desde 2016 eu construo produto multiplataforma e a arquitetura em volta dele. O dia a dia é Flutter, Android, React Native e Swift: Clean Architecture, DDD, decisões escritas em Design Docs e ADRs, e legado migrado sem o app parar.
+
+Em volta disso eu cuido de observabilidade, de CI/CD com quality gates e de backend em NestJS, TypeScript e PostgreSQL na AWS. Também trabalho com agentes de IA em spec-driven development, e com soluções de LLM — orquestração, RAG, evals e guardrails. Fora do expediente, eu aprendo colocando produto próprio no ar.
+
+### Áreas
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Mobile**
+
+Flutter/Dart, Android (Kotlin/Java), React Native/Expo e Swift/SwiftUI. Offline-first com Drift/SQLite, pontes nativas (MethodChannel, JNI, add-to-app) e estado com BLoC, Provider, MobX e RxDart.
+
+</td>
+<td width="33%" valign="top">
+
+**Arquitetura**
+
+Design Docs, ADRs, RCAs e architecture review. Clean Architecture, DDD, modularização com Melos e modernização de legado.
+
+</td>
+<td width="33%" valign="top">
+
+**SRE**
+
+SLIs e SLOs, dashboards e alertas no New Relic e no Firebase, runbooks, canary e profiling com Perfetto.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**CI/CD**
+
+Quality gates e cobertura de testes para o que não pode cair na main. GitHub Actions, Bitrise, Codemagic, JFrog, SonarQube e Sentry.
+
+</td>
+<td width="33%" valign="top">
+
+**Backend e web**
+
+NestJS, TypeScript, Prisma, PostgreSQL, Redis, AWS, Docker e React.
+
+</td>
+<td width="33%" valign="top">
+
+**Agentes e LLM**
+
+Cursor, Claude Code e Codex, com spec-driven development, MCP e worktrees. Orquestração, RAG, evals, prompt engineering e guardrails.
+
+</td>
+</tr>
+</table>
+
+### No tempo livre
+
+Sob o nome **SwiftzTech**, eu coloco produto no ar para aprender na prática.
+
+**[Abacate](https://abacateapp.com)** — plataforma para clínicas de terapia ABA, na App Store e na Google Play. API em NestJS/PostgreSQL, web em React e app em React Native.
+
+**[Lucre3D](https://lucre3d.com)** — SaaS para quem vende impressão 3D: precificação, estoque e vendas.
+
+**Mapa do Consumo** — app em Flutter para comparar preço de mercado.
+
+Também experimento com PromoArt, HuoliFit e Macervo (iOS em SwiftUI).
+
+---
+
+<p align="center">
+  Brazil · Fortaleza, CE<br/>
+  Português nativo · inglês para leitura técnica e escrita profissional<br/>
+  <a href="mailto:mateus@mateuslopes.dev">mateus@mateuslopes.dev</a>
+</p>

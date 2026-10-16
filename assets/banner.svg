@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Mateus Lopes - Software Engineer">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#2A684C"/>
+      <stop offset="55%" stop-color="#12352A"/>
+      <stop offset="100%" stop-color="#080C0A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="400" fill="#080C0A"/>
+  <rect width="1280" height="400" fill="url(#glow)"/>
+  <rect x="52" y="88" width="4" height="224" rx="2" fill="#A8ECC4"/>
+  <text x="84" y="108" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#A8ECC4" letter-spacing="3.2">SOFTWARE ENGINEER</text>
+  <text x="82" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-style="italic" fill="#F8FCF9">Mateus Lopes</text>
+  <text x="86" y="224" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#CEDCD4">JavaScript  ·  TypeScript  ·  React Native  ·  Flutter  ·  NestJS</text>
+  <rect x="86" y="248" width="94" height="3" rx="1.5" fill="#A8ECC4"/>
+  <text x="86" y="286" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#92AAA0" letter-spacing="2.2">BRAZIL  ·  FORTALEZA, CE</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#E8F0EA">
+    <text x="1040" y="128" fill="#A8ECC4" font-size="13">01</text><text x="1078" y="128">Mobile</text>
+    <text x="1040" y="168" fill="#A8ECC4" font-size="13">02</text><text x="1078" y="168">Architecture</text>
+    <text x="1040" y="208" fill="#A8ECC4" font-size="13">03</text><text x="1078" y="208">Reliability</text>
+    <text x="1040" y="248" fill="#A8ECC4" font-size="13">04</text><text x="1078" y="248">Backend</text>
+    <text x="1040" y="288" fill="#A8ECC4" font-size="13">05</text><text x="1078" y="288">Agents</text>
+  </g>
+</svg>
