@@ -54,27 +54,11 @@ Também exploro **Kotlin Multiplatform**, **Swift** e fundamentos de **Go**, sem
 
 - **Grupo Boticário** — *Developer Specialist I / Mobile Solution Architect*  
   Produtos mobile com Flutter, Android e iOS.
-- **Sou Energy** — *Liderança técnica / workshop Flutter*  
-  Referência no repositório [`workshop_souenergy_flutter`](https://github.com/mateusdevelopes/workshop_souenergy_flutter).
+- **Sou Energy** — *Liderança técnica*  
+  Desenvolvimento e facilitação em Flutter.
 - **Prolins IT Solution** — *Desenvolvedor Mobile*  
   Apps com Flutter e Ionic, REST, MVC/MVVM.
-- **Unifor** — projetos acadêmicos em Flutter e Swift nativo.
-
----
-
-### Projetos em destaque
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [desafio_gpboticario](https://github.com/mateusdevelopes/desafio_gpboticario) | Microblogging interno (desafio Grupo Boticário): feed, login e posts | Flutter, GetX, Dio, MVC |
-| [kotlin_multiplatform_mobile](https://github.com/mateusdevelopes/kotlin_multiplatform_mobile) | Estudo de KMM compartilhando lógica entre Android e iOS | Kotlin, Swift, KMM |
-| [unifor_BluePocket](https://github.com/mateusdevelopes/unifor_BluePocket) | App iOS nativo com Firebase | Swift, Firebase, Charts |
-| [smart_home_design](https://github.com/mateusdevelopes/smart_home_design) | UI elaborada de casa inteligente | Flutter |
-| [responsive_hibrid_app](https://github.com/mateusdevelopes/responsive_hibrid_app) | App Flutter responsivo (mobile, tablet, web, desktop) | Flutter |
-| [CRUD_Firestore_Flutter_App](https://github.com/mateusdevelopes/CRUD_Firestore_Flutter_App) | CRUD com Firebase Auth + Firestore | Flutter, Firebase |
-| [getx_from_scratch](https://github.com/mateusdevelopes/getx_from_scratch) | Prática de GetX do zero | Flutter, GetX, Dio |
-| [outbreak_covid19](https://github.com/mateusdevelopes/outbreak_covid19) | Dashboard COVID-19 com gráficos | Flutter, Provider, fl_chart |
-| [coin_converter](https://github.com/mateusdevelopes/coin_converter) | Conversor de moedas (API HG Brasil) | Flutter, Dart |
+- **Unifor** — formação e projetos acadêmicos em mobile.
 
 ---
 
