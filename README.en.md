@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateusdevelopes"><img src="https://img.shields.io/badge/LinkedIn-111916?style=flat-square&logo=linkedin&logoColor=A8ECC4" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mateus-lopes-7877b6168/"><img src="https://img.shields.io/badge/LinkedIn-111916?style=flat-square&logo=linkedin&logoColor=A8ECC4" alt="LinkedIn"/></a>
   <a href="https://medium.com/@mateusdevelopes"><img src="https://img.shields.io/badge/Medium-111916?style=flat-square&logo=medium&logoColor=A8ECC4" alt="Medium"/></a>
   <a href="https://x.com/SwiftPilotz"><img src="https://img.shields.io/badge/X-111916?style=flat-square&logo=x&logoColor=A8ECC4" alt="X"/></a>
   <a href="mailto:mateus@mateuslopes.dev"><img src="https://img.shields.io/badge/Email-111916?style=flat-square&logo=gmail&logoColor=A8ECC4" alt="Email"/></a>
