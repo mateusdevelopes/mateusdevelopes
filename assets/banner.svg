@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mateus Lopes  Mobile Specialist">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mateus Lopes - Mobile Specialist">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0B1F1A"/>
@@ -13,15 +14,13 @@
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
   </defs>
-
   <rect width="1200" height="360" fill="url(#bg)"/>
   <rect width="1200" height="360" fill="url(#grid)"/>
   <circle cx="980" cy="60" r="180" fill="#7CFFB2" fill-opacity="0.06"/>
   <circle cx="1080" cy="280" r="140" fill="#3DDC84" fill-opacity="0.08"/>
-
-  <text x="72" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#7CFFB2" letter-spacing="4">MATEUS LOPES</text>
-  <text x="72" y="198" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#F4FFF8" font-weight="700">Mobile Specialist</text>
-  <text x="72" y="248" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" fill="#C9E8DA">Flutter · Android · iOS · Kotlin · Swift</text>
+  <text x="72" y="118" font-family="Georgia, Times New Roman, serif" font-size="28" fill="#7CFFB2" letter-spacing="4">MATEUS LOPES</text>
+  <text x="72" y="198" font-family="Georgia, Times New Roman, serif" font-size="58" fill="#F4FFF8" font-weight="700">Mobile Specialist</text>
+  <text x="72" y="248" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#C9E8DA">Flutter Â· Android Â· iOS Â· Kotlin Â· Swift</text>
   <rect x="72" y="278" width="220" height="4" rx="2" fill="url(#accent)"/>
-  <text x="72" y="320" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" fill="#9BC4B3">Fortaleza  CE · Grupo Boticário</text>
+  <text x="72" y="320" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#9BC4B3">Fortaleza â€” CE Â· Grupo BoticÃ¡rio</text>
 </svg>

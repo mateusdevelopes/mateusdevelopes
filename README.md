@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mateus Lopes — Mobile Specialist" width="100%"/>
+  <img src="./assets/banner.png" alt="Mateus Lopes — Mobile Specialist" width="100%"/>
 </p>
 
 <h1 align="center">Mateus Lopes</h1>
