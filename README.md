@@ -6,7 +6,7 @@
 
 <p align="center">
   Software Engineer · Multiplataforma<br/>
-  JavaScript · TypeScript · React Native · Flutter · NestJS · AWS<br/>
+  JavaScript · TypeScript · React Native · Flutter · NestJS<br/>
   <em>Brazil · Fortaleza, CE</em>
 </p>
 
