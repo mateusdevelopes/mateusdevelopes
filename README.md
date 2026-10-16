@@ -22,9 +22,9 @@
 
 ### Sobre
 
-Engenheiro de software com atuação em produtos **multiplataforma** — do nativo (**Android** / **iOS**) ao ecossistema **Flutter**, **React Native**, **JavaScript** e **TypeScript**.
+Engenheiro de software focado em produtos **multiplataforma** — do nativo (**Android** / **iOS**) ao ecossistema **Flutter**, **React Native**, **JavaScript** e **TypeScript**.
 
-Como *Developer Specialist I* no **Grupo Boticário**, desenho e evoluo soluções com foco em arquitetura, experiência do usuário e qualidade de código. Também trabalho com **Kotlin**, **Swift**, **Kotlin Multiplatform** e fundamentos de **Go**.
+Trabalho com arquitetura, experiência do usuário e qualidade de código. Também uso **Kotlin**, **Swift**, **Kotlin Multiplatform** e fundamentos de **Go**.
 
 ---
 
@@ -53,18 +53,6 @@ Como *Developer Specialist I* no **Grupo Boticário**, desenho e evoluo soluçõ
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
-
----
-
-### Experiência
-
-- **Grupo Boticário** — *Developer Specialist I / Mobile Solution Architect*  
-  Produtos multiplataforma com Flutter, Android, iOS e ecossistema JS/TS.
-- **Sou Energy** — *Liderança técnica*  
-  Desenvolvimento e facilitação técnica.
-- **Prolins IT Solution** — *Desenvolvedor*  
-  Apps com Flutter, Ionic, REST, MVC/MVVM.
-- **Unifor** — formação e projetos acadêmicos em software.
 
 ---
 
