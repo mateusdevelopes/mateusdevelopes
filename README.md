@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Portugu%C3%AAs-1A4D3E?style=flat-square" alt="Português"/>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/English-111916?style=flat-square" alt="English"/></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mateusdevelopes"><img src="https://img.shields.io/badge/LinkedIn-111916?style=flat-square&logo=linkedin&logoColor=A8ECC4" alt="LinkedIn"/></a>
   <a href="https://medium.com/@mateusdevelopes"><img src="https://img.shields.io/badge/Medium-111916?style=flat-square&logo=medium&logoColor=A8ECC4" alt="Medium"/></a>
   <a href="https://x.com/SwiftPilotz"><img src="https://img.shields.io/badge/X-111916?style=flat-square&logo=x&logoColor=A8ECC4" alt="X"/></a>
