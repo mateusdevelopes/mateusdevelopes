@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Mateus Lopes — Mobile Specialist" width="100%"/>
+  <img src="./assets/banner.png" alt="Mateus Lopes — Software Engineer" width="100%"/>
 </p>
 
 <h1 align="center">Mateus Lopes</h1>
 
 <p align="center">
-  <strong>Developer Specialist I — Mobile</strong><br/>
-  Android · iOS · Flutter<br/>
+  <strong>Developer Specialist I</strong><br/>
+  Software Engineer · Multiplataforma<br/>
+  Flutter · React Native · TypeScript · Android · iOS<br/>
   <em>Grupo Boticário · Fortaleza, CE</em>
 </p>
 
@@ -21,9 +22,9 @@
 
 ### Sobre
 
-Especialista mobile com foco em **Flutter**, **Android** e **iOS**. Atuo como *Developer Specialist I* no **Grupo Boticário**, construindo e evoluindo produtos multiplataforma — da arquitetura nativa ao ecossistema Dart/Flutter.
+Engenheiro de software com atuação em produtos **multiplataforma** — do nativo (**Android** / **iOS**) ao ecossistema **Flutter**, **React Native**, **JavaScript** e **TypeScript**.
 
-Também exploro **Kotlin Multiplatform**, **Swift** e fundamentos de **Go**, sempre com olhar para arquitetura, UX e qualidade de código.
+Como *Developer Specialist I* no **Grupo Boticário**, desenho e evoluo soluções com foco em arquitetura, experiência do usuário e qualidade de código. Também trabalho com **Kotlin**, **Swift**, **Kotlin Multiplatform** e fundamentos de **Go**.
 
 ---
 
@@ -31,13 +32,18 @@ Também exploro **Kotlin Multiplatform**, **Swift** e fundamentos de **Go**, sem
 
 | Área | Tecnologias |
 | --- | --- |
-| **Mobile** | Flutter, Dart, Android, iOS, Kotlin, Swift, Kotlin Multiplatform (KMM) |
+| **Linguagens** | TypeScript, JavaScript, Dart, Kotlin, Swift, Go |
+| **Multiplataforma** | Flutter, React Native, Kotlin Multiplatform (KMM) |
+| **Mobile nativo** | Android, iOS |
 | **Estado & arquitetura** | GetX, Provider, RxDart, MVC / MVVM |
 | **Backend & dados** | Firebase (Auth, Firestore, Storage, Analytics), Dio, REST, sqflite |
 | **Ferramentas** | Xcode, Android Studio, VS Code, Git |
-| **Outros** | Go (estudo), Ionic (experiência profissional) |
+| **Outros** | Ionic |
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
@@ -53,12 +59,12 @@ Também exploro **Kotlin Multiplatform**, **Swift** e fundamentos de **Go**, sem
 ### Experiência
 
 - **Grupo Boticário** — *Developer Specialist I / Mobile Solution Architect*  
-  Produtos mobile com Flutter, Android e iOS.
+  Produtos multiplataforma com Flutter, Android, iOS e ecossistema JS/TS.
 - **Sou Energy** — *Liderança técnica*  
-  Desenvolvimento e facilitação em Flutter.
-- **Prolins IT Solution** — *Desenvolvedor Mobile*  
-  Apps com Flutter e Ionic, REST, MVC/MVVM.
-- **Unifor** — formação e projetos acadêmicos em mobile.
+  Desenvolvimento e facilitação técnica.
+- **Prolins IT Solution** — *Desenvolvedor*  
+  Apps com Flutter, Ionic, REST, MVC/MVVM.
+- **Unifor** — formação e projetos acadêmicos em software.
 
 ---
 
@@ -81,6 +87,6 @@ Artigos no [Medium](https://medium.com/@mateusdevelopes):
 ---
 
 <p align="center">
-  <sub>Fortaleza — CE · aberto a conversas sobre mobile, Flutter e arquitetura</sub><br/>
+  <sub>Fortaleza — CE · aberto a conversas sobre engenharia de software, multiplataforma e arquitetura</sub><br/>
   <a href="mailto:mateusdevelopes@gmail.com">mateusdevelopes@gmail.com</a>
 </p>
